@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_serpent">#00BF9F</color>
+    <color name="black_glare">#003F4C</color>
+    <color name="carmine_wine">#e52d4c</color>
+    <color name="lucid_cloud">#e5f5ff</color>
+    <color name="gargoyle_gum">#99b2bf</color>
+    <color name="dark_cream_serpent">#009D83</color>
+    <color name="dark_black_glare">#00343F</color>
+    <color name="dark_carmine_wine">#BC253F</color>
+    <color name="dark_lucid_cloud">#BCC9D1</color>
+    <color name="dark_gargoyle_gum">#7E929D</color>
+
+</resources>
